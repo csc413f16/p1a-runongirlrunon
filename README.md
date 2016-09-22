@@ -1,8 +1,8 @@
-Name:
+Name: Lindsey Hogg
 
-Compilation and Run Successful:
+Compilation and Run Successful: 9.22.16 10:10 AM
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: 9.22.16 10:14 AM
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
